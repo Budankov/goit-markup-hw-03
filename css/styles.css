@@ -307,6 +307,10 @@ ol {
   border-radius: 0px 0px 4px 4px;
 }
 
+.member-info {
+  padding: 30px 0;
+}
+
 .member-name {
   text-align: center;
   font-weight: 500;
@@ -314,7 +318,6 @@ ol {
   line-height: 1.18;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
-  margin-top: 30px;
   margin-bottom: 10px;
 }
 
@@ -322,7 +325,6 @@ ol {
   text-align: center;
   font-size: 16px;
   line-height: 1.18;
-  margin-bottom: 30px;
 }
 /*Конец нашей команды */
 /* Конец основного блока главной страницы (Студия) */
@@ -332,7 +334,7 @@ ol {
 .filters {
   display: flex;
   justify-content: center;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .filter-button {
